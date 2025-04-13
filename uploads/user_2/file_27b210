@@ -1,0 +1,1 @@
+  `nomEleve` varchar(50) DEFAULT NULL,

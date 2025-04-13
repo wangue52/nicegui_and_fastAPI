@@ -1,0 +1,1 @@
+  `nomparent` varchar(50) DEFAULT NULL,

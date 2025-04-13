@@ -1,0 +1,1 @@
+  `contactEnseignant` varchar(25) DEFAULT NULL,

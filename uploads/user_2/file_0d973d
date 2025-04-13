@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS Config (intitule varchar(50) NOT NULL,valeur varchar(50) NOT NULL,PRIMARY KEY (intitule));

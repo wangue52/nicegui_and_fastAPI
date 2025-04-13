@@ -1,0 +1,1 @@
+  `prenomEnseignant` varchar(50) DEFAULT NULL,

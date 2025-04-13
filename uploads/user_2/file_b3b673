@@ -1,0 +1,1 @@
+  `numeroparent` varchar(10) DEFAULT NULL,
